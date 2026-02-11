@@ -1,0 +1,9 @@
+# clawdbot
+
+> clawdbot
+
+## Links
+
+- Repository: https://github.com/nirholas/clawdbot
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/clawdbot/main/llms-full.txt

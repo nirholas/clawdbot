@@ -1,0 +1,18 @@
+# clawdbot
+
+> clawdbot
+
+## Overview
+
+clawdbot is an open-source project by nirholas. clawdbot
+
+## Repository
+
+- URL: https://github.com/nirholas/clawdbot
+- Language: TypeScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

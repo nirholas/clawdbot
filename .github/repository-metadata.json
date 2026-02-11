@@ -1,0 +1,13 @@
+{
+    "name": "clawdbot",
+    "description": "clawdbot",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/clawdbot",
+    "language": "TypeScript",
+    "topics": [
+        "clawdbot",
+        "nirholas",
+        "open-source"
+    ]
+}

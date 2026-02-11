@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use clawdbot, please cite it as below."
+type: software
+title: "clawdbot"
+abstract: "clawdbot"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/clawdbot"
+url: "https://github.com/nirholas/clawdbot"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

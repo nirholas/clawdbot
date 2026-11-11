@@ -1,0 +1,23 @@
+{
+  "name": "clawdbot",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Install, run and drive the OpenClaw personal AI assistant gateway and its multi-channel messaging CLI.",
+  "plugins": [
+    {
+      "name": "openclaw-assistant",
+      "source": "./plugins/openclaw-assistant",
+      "description": "Install, run and drive the OpenClaw personal AI assistant gateway and its multi-channel messaging CLI.",
+      "category": "automation",
+      "tags": [
+        "openclaw",
+        "assistant",
+        "gateway",
+        "messaging",
+        "telegram",
+        "whatsapp"
+      ]
+    }
+  ]
+}

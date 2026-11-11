@@ -1,0 +1,19 @@
+{
+  "name": "openclaw-assistant",
+  "version": "2026.2.1",
+  "description": "Install, run and drive the OpenClaw personal AI assistant gateway and its multi-channel messaging CLI.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/clawdbot",
+  "homepage": "https://github.com/nirholas/clawdbot",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "assistant",
+    "gateway",
+    "messaging",
+    "telegram",
+    "whatsapp"
+  ]
+}
